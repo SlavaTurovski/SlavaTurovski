@@ -1,6 +1,4 @@
-### Hi there 👋 I,m Slava
-
-### I,m beginner Java BackEnd Developer
+### Hi there 👋 I,m beginner Java BackEnd Developer
 
 🌱 I’m currently learning Java
   
